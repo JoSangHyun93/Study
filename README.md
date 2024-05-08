@@ -1,3 +1,6 @@
 # Study
 
-https://acidic-elm-4c8.notion.site/8da45ea0baad4249a31b46e4b33a63e0?v=ea6f3f7c95af450593a42540687e7bc2
+https://www.notion.so/704ccd5924c54934a992048cbda9612a?v=b91d1954b7ae420f93f84122f96c12c6
+
+
+Http 추가
