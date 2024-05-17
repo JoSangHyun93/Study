@@ -11,4 +11,5 @@ https://josh93.notion.site/704ccd5924c54934a992048cbda9612a?v=b91d1954b7ae420f93
 - 웹 컨테이너 추가
 - Dispatcher-Servlet 추가
 - Filter, Interceptor, AOP 추가
-- 프록시, AOP 추가
+- 프록시, AOP 추가 ( AOP로 수정)
+- 프록시 추가
