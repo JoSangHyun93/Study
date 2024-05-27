@@ -14,3 +14,4 @@ https://josh93.notion.site/704ccd5924c54934a992048cbda9612a?v=b91d1954b7ae420f93
 - 프록시, AOP 추가 ( AOP로 수정)
 - 프록시 추가
 - JOIN 추가
+- select 추가
